@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabrie, from 🇮🇹🍝
+- 👋 Hi, I’m Gabriel, from 🇮🇹🍝
 - 👀 I’m interested in "Html; CSS; Jacascripit; C;"
 - 🌱 I’m currently learning Html; CSS; and "C" but i just start with that (:
 - 📫 How to reach me Gabriele.pellerito06@gmail.com📧
